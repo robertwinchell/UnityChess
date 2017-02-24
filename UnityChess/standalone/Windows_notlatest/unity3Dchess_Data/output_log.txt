@@ -1,0 +1,20 @@
+Mono path[0] = 'E:/UNITY JANUAR2017/chessPROJECTr/UnityChessAll_08.2011/UnityChessAll_08.2011/UnityChess/standalone/Windows_notlatest/unity3Dchess_Data/Managed'
+Mono path[1] = 'E:/UNITY JANUAR2017/chessPROJECTr/UnityChessAll_08.2011/UnityChessAll_08.2011/UnityChess/standalone/Windows_notlatest/unity3Dchess_Data/Mono'
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7633]
+    Renderer: NVIDIA GeForce GT 610
+    Vendor:   NVIDIA
+    VRAM:     1024 MB
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1680x1050 59Hz; virtual: 1120x700 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-02719EE8 (this message is harmless)
+Non platform assembly: data-0277CCA8 (this message is harmless)
+Non platform assembly: data-027822F0 (this message is harmless)
+Non platform assembly: data-027997B0 (this message is harmless)
+Non platform assembly: data-06490048 (this message is harmless)
+Platform assembly: E:\UNITY JANUAR2017\chessPROJECTr\UnityChessAll_08.2011\UnityChessAll_08.2011\UnityChess\standalone\Windows_notlatest\unity3Dchess_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\UNITY JANUAR2017\chessPROJECTr\UnityChessAll_08.2011\UnityChessAll_08.2011\UnityChess\standalone\Windows_notlatest\unity3Dchess_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: E:\UNITY JANUAR2017\chessPROJECTr\UnityChessAll_08.2011\UnityChessAll_08.2011\UnityChess\standalone\Windows_notlatest\unity3Dchess_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: E:\UNITY JANUAR2017\chessPROJECTr\UnityChessAll_08.2011\UnityChessAll_08.2011\UnityChess\standalone\Windows_notlatest\unity3Dchess_Data\Managed\Mono.Security.dll (this message is harmless)

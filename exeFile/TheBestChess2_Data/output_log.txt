@@ -1,0 +1,56 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x412)
+    Vendor:   Intel
+    VRAM:     1136 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.771 seconds
+Platform assembly: C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\William\Downloads\chessWhole3\chessWhole3\TheBestChess2_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3600x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.960688 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6190 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.910542 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 601.
+Total: 0.363720 ms (FindLiveObjects: 0.040092 ms CreateObjectMapping: 0.025017 ms MarkObjects: 0.287063 ms  DeleteObjects: 0.010905 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.689983 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 621.
+Total: 0.692158 ms (FindLiveObjects: 0.065431 ms CreateObjectMapping: 0.040734 ms MarkObjects: 0.557126 ms  DeleteObjects: 0.027583 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.176798 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 601.
+Total: 0.583748 ms (FindLiveObjects: 0.061582 ms CreateObjectMapping: 0.023734 ms MarkObjects: 0.402529 ms  DeleteObjects: 0.094618 ms)
+
